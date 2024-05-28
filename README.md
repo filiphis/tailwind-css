@@ -2,7 +2,7 @@
 <!-- **_Status:_** Finalizado :heavy_check_mark: -->
 <!-- **_Status:_** Em andamento :construction: -->
 
-# AlFood
+# Alura Newsletter
 
 > **_Status:_** Finalizado :heavy_check_mark:
 
